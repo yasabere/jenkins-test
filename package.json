@@ -1,6 +1,6 @@
 {
   "name": "jenkins-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "app to test jenkins automated building",
   "main": "index.js",
   "repository": "https://github.com/yasabere/jenkins-test.git",
